@@ -1,0 +1,324 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\programing video\\back end\\asp.net core\\API project\\paid alhelaly\\34. Working With Files [Bonus]\\FileManager\\FileManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3B380607-5F05-45CC-BC3B-0335999D2AC3}|FileManager.Api\\FileManager.Api.csproj|h:\\programing video\\back end\\asp.net core\\api project\\paid alhelaly\\34. working with files [bonus]\\filemanager\\filemanager\\filemanager.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B380607-5F05-45CC-BC3B-0335999D2AC3}|FileManager.Api\\FileManager.Api.csproj|solutionrelative:filemanager.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B380607-5F05-45CC-BC3B-0335999D2AC3}|FileManager.Api\\FileManager.Api.csproj|h:\\programing video\\back end\\asp.net core\\api project\\paid alhelaly\\34. working with files [bonus]\\filemanager\\filemanager\\filemanager.api\\persistence\\entitiesconfigurations\\uploadedfileconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B380607-5F05-45CC-BC3B-0335999D2AC3}|FileManager.Api\\FileManager.Api.csproj|solutionrelative:filemanager.api\\persistence\\entitiesconfigurations\\uploadedfileconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B380607-5F05-45CC-BC3B-0335999D2AC3}|FileManager.Api\\FileManager.Api.csproj|h:\\programing video\\back end\\asp.net core\\api project\\paid alhelaly\\34. working with files [bonus]\\filemanager\\filemanager\\filemanager.api\\persistence\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B380607-5F05-45CC-BC3B-0335999D2AC3}|FileManager.Api\\FileManager.Api.csproj|solutionrelative:filemanager.api\\persistence\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B380607-5F05-45CC-BC3B-0335999D2AC3}|FileManager.Api\\FileManager.Api.csproj|h:\\programing video\\back end\\asp.net core\\api project\\paid alhelaly\\34. working with files [bonus]\\filemanager\\filemanager\\filemanager.api\\controllers\\filescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B380607-5F05-45CC-BC3B-0335999D2AC3}|FileManager.Api\\FileManager.Api.csproj|solutionrelative:filemanager.api\\controllers\\filescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B380607-5F05-45CC-BC3B-0335999D2AC3}|FileManager.Api\\FileManager.Api.csproj|h:\\programing video\\back end\\asp.net core\\api project\\paid alhelaly\\34. working with files [bonus]\\filemanager\\filemanager\\filemanager.api\\contracts\\common\\blockedsignaturesvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B380607-5F05-45CC-BC3B-0335999D2AC3}|FileManager.Api\\FileManager.Api.csproj|solutionrelative:filemanager.api\\contracts\\common\\blockedsignaturesvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B380607-5F05-45CC-BC3B-0335999D2AC3}|FileManager.Api\\FileManager.Api.csproj|h:\\programing video\\back end\\asp.net core\\api project\\paid alhelaly\\34. working with files [bonus]\\filemanager\\filemanager\\filemanager.api\\contracts\\common\\filenamevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B380607-5F05-45CC-BC3B-0335999D2AC3}|FileManager.Api\\FileManager.Api.csproj|solutionrelative:filemanager.api\\contracts\\common\\filenamevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B380607-5F05-45CC-BC3B-0335999D2AC3}|FileManager.Api\\FileManager.Api.csproj|h:\\programing video\\back end\\asp.net core\\api project\\paid alhelaly\\34. working with files [bonus]\\filemanager\\filemanager\\filemanager.api\\settings\\filesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B380607-5F05-45CC-BC3B-0335999D2AC3}|FileManager.Api\\FileManager.Api.csproj|solutionrelative:filemanager.api\\settings\\filesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B380607-5F05-45CC-BC3B-0335999D2AC3}|FileManager.Api\\FileManager.Api.csproj|h:\\programing video\\back end\\asp.net core\\api project\\paid alhelaly\\34. working with files [bonus]\\filemanager\\filemanager\\filemanager.api\\contracts\\common\\filesizevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B380607-5F05-45CC-BC3B-0335999D2AC3}|FileManager.Api\\FileManager.Api.csproj|solutionrelative:filemanager.api\\contracts\\common\\filesizevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B380607-5F05-45CC-BC3B-0335999D2AC3}|FileManager.Api\\FileManager.Api.csproj|h:\\programing video\\back end\\asp.net core\\api project\\paid alhelaly\\34. working with files [bonus]\\filemanager\\filemanager\\filemanager.api\\contracts\\uploadfilerequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B380607-5F05-45CC-BC3B-0335999D2AC3}|FileManager.Api\\FileManager.Api.csproj|solutionrelative:filemanager.api\\contracts\\uploadfilerequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B380607-5F05-45CC-BC3B-0335999D2AC3}|FileManager.Api\\FileManager.Api.csproj|h:\\programing video\\back end\\asp.net core\\api project\\paid alhelaly\\34. working with files [bonus]\\filemanager\\filemanager\\filemanager.api\\contracts\\uploadfilerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B380607-5F05-45CC-BC3B-0335999D2AC3}|FileManager.Api\\FileManager.Api.csproj|solutionrelative:filemanager.api\\contracts\\uploadfilerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B380607-5F05-45CC-BC3B-0335999D2AC3}|FileManager.Api\\FileManager.Api.csproj|h:\\programing video\\back end\\asp.net core\\api project\\paid alhelaly\\34. working with files [bonus]\\filemanager\\filemanager\\filemanager.api\\services\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B380607-5F05-45CC-BC3B-0335999D2AC3}|FileManager.Api\\FileManager.Api.csproj|solutionrelative:filemanager.api\\services\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B380607-5F05-45CC-BC3B-0335999D2AC3}|FileManager.Api\\FileManager.Api.csproj|h:\\programing video\\back end\\asp.net core\\api project\\paid alhelaly\\34. working with files [bonus]\\filemanager\\filemanager\\filemanager.api\\entities\\uploadedfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B380607-5F05-45CC-BC3B-0335999D2AC3}|FileManager.Api\\FileManager.Api.csproj|solutionrelative:filemanager.api\\entities\\uploadedfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B380607-5F05-45CC-BC3B-0335999D2AC3}|FileManager.Api\\FileManager.Api.csproj|h:\\programing video\\back end\\asp.net core\\api project\\paid alhelaly\\34. working with files [bonus]\\filemanager\\filemanager\\filemanager.api\\services\\ifileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B380607-5F05-45CC-BC3B-0335999D2AC3}|FileManager.Api\\FileManager.Api.csproj|solutionrelative:filemanager.api\\services\\ifileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B380607-5F05-45CC-BC3B-0335999D2AC3}|FileManager.Api\\FileManager.Api.csproj|h:\\programing video\\back end\\asp.net core\\api project\\paid alhelaly\\34. working with files [bonus]\\filemanager\\filemanager\\filemanager.api\\contracts\\uploadimagerequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B380607-5F05-45CC-BC3B-0335999D2AC3}|FileManager.Api\\FileManager.Api.csproj|solutionrelative:filemanager.api\\contracts\\uploadimagerequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B380607-5F05-45CC-BC3B-0335999D2AC3}|FileManager.Api\\FileManager.Api.csproj|h:\\programing video\\back end\\asp.net core\\api project\\paid alhelaly\\34. working with files [bonus]\\filemanager\\filemanager\\filemanager.api\\contracts\\uploadimagerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B380607-5F05-45CC-BC3B-0335999D2AC3}|FileManager.Api\\FileManager.Api.csproj|solutionrelative:filemanager.api\\contracts\\uploadimagerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B380607-5F05-45CC-BC3B-0335999D2AC3}|FileManager.Api\\FileManager.Api.csproj|h:\\programing video\\back end\\asp.net core\\api project\\paid alhelaly\\34. working with files [bonus]\\filemanager\\filemanager\\filemanager.api\\contracts\\uploadmanyfilesrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B380607-5F05-45CC-BC3B-0335999D2AC3}|FileManager.Api\\FileManager.Api.csproj|solutionrelative:filemanager.api\\contracts\\uploadmanyfilesrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 23,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UploadedFileConfiguration.cs",
+              "DocumentMoniker": "H:\\programing video\\back end\\asp.net core\\API project\\paid alhelaly\\34. Working With Files [Bonus]\\FileManager\\FileManager\\FileManager.Api\\Persistence\\EntitiesConfigurations\\UploadedFileConfiguration.cs",
+              "RelativeDocumentMoniker": "FileManager.Api\\Persistence\\EntitiesConfigurations\\UploadedFileConfiguration.cs",
+              "ToolTip": "H:\\programing video\\back end\\asp.net core\\API project\\paid alhelaly\\34. Working With Files [Bonus]\\FileManager\\FileManager\\FileManager.Api\\Persistence\\EntitiesConfigurations\\UploadedFileConfiguration.cs",
+              "RelativeToolTip": "FileManager.Api\\Persistence\\EntitiesConfigurations\\UploadedFileConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T20:01:28.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "H:\\programing video\\back end\\asp.net core\\API project\\paid alhelaly\\34. Working With Files [Bonus]\\FileManager\\FileManager\\FileManager.Api\\Persistence\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "FileManager.Api\\Persistence\\ApplicationDbContext.cs",
+              "ToolTip": "H:\\programing video\\back end\\asp.net core\\API project\\paid alhelaly\\34. Working With Files [Bonus]\\FileManager\\FileManager\\FileManager.Api\\Persistence\\ApplicationDbContext.cs",
+              "RelativeToolTip": "FileManager.Api\\Persistence\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T20:01:12.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UploadFileRequest.cs",
+              "DocumentMoniker": "H:\\programing video\\back end\\asp.net core\\API project\\paid alhelaly\\34. Working With Files [Bonus]\\FileManager\\FileManager\\FileManager.Api\\Contracts\\UploadFileRequest.cs",
+              "RelativeDocumentMoniker": "FileManager.Api\\Contracts\\UploadFileRequest.cs",
+              "ToolTip": "H:\\programing video\\back end\\asp.net core\\API project\\paid alhelaly\\34. Working With Files [Bonus]\\FileManager\\FileManager\\FileManager.Api\\Contracts\\UploadFileRequest.cs",
+              "RelativeToolTip": "FileManager.Api\\Contracts\\UploadFileRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T19:58:17.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FileService.cs",
+              "DocumentMoniker": "H:\\programing video\\back end\\asp.net core\\API project\\paid alhelaly\\34. Working With Files [Bonus]\\FileManager\\FileManager\\FileManager.Api\\Services\\FileService.cs",
+              "RelativeDocumentMoniker": "FileManager.Api\\Services\\FileService.cs",
+              "ToolTip": "H:\\programing video\\back end\\asp.net core\\API project\\paid alhelaly\\34. Working With Files [Bonus]\\FileManager\\FileManager\\FileManager.Api\\Services\\FileService.cs",
+              "RelativeToolTip": "FileManager.Api\\Services\\FileService.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAkwEwAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T19:55:50.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UploadImageRequestValidator.cs",
+              "DocumentMoniker": "H:\\programing video\\back end\\asp.net core\\API project\\paid alhelaly\\34. Working With Files [Bonus]\\FileManager\\FileManager\\FileManager.Api\\Contracts\\UploadImageRequestValidator.cs",
+              "RelativeDocumentMoniker": "FileManager.Api\\Contracts\\UploadImageRequestValidator.cs",
+              "ToolTip": "H:\\programing video\\back end\\asp.net core\\API project\\paid alhelaly\\34. Working With Files [Bonus]\\FileManager\\FileManager\\FileManager.Api\\Contracts\\UploadImageRequestValidator.cs",
+              "RelativeToolTip": "FileManager.Api\\Contracts\\UploadImageRequestValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T19:29:54.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UploadImageRequest.cs",
+              "DocumentMoniker": "H:\\programing video\\back end\\asp.net core\\API project\\paid alhelaly\\34. Working With Files [Bonus]\\FileManager\\FileManager\\FileManager.Api\\Contracts\\UploadImageRequest.cs",
+              "RelativeDocumentMoniker": "FileManager.Api\\Contracts\\UploadImageRequest.cs",
+              "ToolTip": "H:\\programing video\\back end\\asp.net core\\API project\\paid alhelaly\\34. Working With Files [Bonus]\\FileManager\\FileManager\\FileManager.Api\\Contracts\\UploadImageRequest.cs",
+              "RelativeToolTip": "FileManager.Api\\Contracts\\UploadImageRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T19:29:53.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IFileService.cs",
+              "DocumentMoniker": "H:\\programing video\\back end\\asp.net core\\API project\\paid alhelaly\\34. Working With Files [Bonus]\\FileManager\\FileManager\\FileManager.Api\\Services\\IFileService.cs",
+              "RelativeDocumentMoniker": "FileManager.Api\\Services\\IFileService.cs",
+              "ToolTip": "H:\\programing video\\back end\\asp.net core\\API project\\paid alhelaly\\34. Working With Files [Bonus]\\FileManager\\FileManager\\FileManager.Api\\Services\\IFileService.cs",
+              "RelativeToolTip": "FileManager.Api\\Services\\IFileService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T19:10:15.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BlockedSignaturesValidator.cs",
+              "DocumentMoniker": "H:\\programing video\\back end\\asp.net core\\API project\\paid alhelaly\\34. Working With Files [Bonus]\\FileManager\\FileManager\\FileManager.Api\\Contracts\\Common\\BlockedSignaturesValidator.cs",
+              "RelativeDocumentMoniker": "FileManager.Api\\Contracts\\Common\\BlockedSignaturesValidator.cs",
+              "ToolTip": "H:\\programing video\\back end\\asp.net core\\API project\\paid alhelaly\\34. Working With Files [Bonus]\\FileManager\\FileManager\\FileManager.Api\\Contracts\\Common\\BlockedSignaturesValidator.cs",
+              "RelativeToolTip": "FileManager.Api\\Contracts\\Common\\BlockedSignaturesValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T19:08:26.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FileNameValidator.cs",
+              "DocumentMoniker": "H:\\programing video\\back end\\asp.net core\\API project\\paid alhelaly\\34. Working With Files [Bonus]\\FileManager\\FileManager\\FileManager.Api\\Contracts\\Common\\FileNameValidator.cs",
+              "RelativeDocumentMoniker": "FileManager.Api\\Contracts\\Common\\FileNameValidator.cs",
+              "ToolTip": "H:\\programing video\\back end\\asp.net core\\API project\\paid alhelaly\\34. Working With Files [Bonus]\\FileManager\\FileManager\\FileManager.Api\\Contracts\\Common\\FileNameValidator.cs",
+              "RelativeToolTip": "FileManager.Api\\Contracts\\Common\\FileNameValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T19:06:23.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FileSettings.cs",
+              "DocumentMoniker": "H:\\programing video\\back end\\asp.net core\\API project\\paid alhelaly\\34. Working With Files [Bonus]\\FileManager\\FileManager\\FileManager.Api\\Settings\\FileSettings.cs",
+              "RelativeDocumentMoniker": "FileManager.Api\\Settings\\FileSettings.cs",
+              "ToolTip": "H:\\programing video\\back end\\asp.net core\\API project\\paid alhelaly\\34. Working With Files [Bonus]\\FileManager\\FileManager\\FileManager.Api\\Settings\\FileSettings.cs",
+              "RelativeToolTip": "FileManager.Api\\Settings\\FileSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T19:04:03.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FileSizeValidator.cs",
+              "DocumentMoniker": "H:\\programing video\\back end\\asp.net core\\API project\\paid alhelaly\\34. Working With Files [Bonus]\\FileManager\\FileManager\\FileManager.Api\\Contracts\\Common\\FileSizeValidator.cs",
+              "RelativeDocumentMoniker": "FileManager.Api\\Contracts\\Common\\FileSizeValidator.cs",
+              "ToolTip": "H:\\programing video\\back end\\asp.net core\\API project\\paid alhelaly\\34. Working With Files [Bonus]\\FileManager\\FileManager\\FileManager.Api\\Contracts\\Common\\FileSizeValidator.cs",
+              "RelativeToolTip": "FileManager.Api\\Contracts\\Common\\FileSizeValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T19:02:56.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UploadFileRequestValidator.cs",
+              "DocumentMoniker": "H:\\programing video\\back end\\asp.net core\\API project\\paid alhelaly\\34. Working With Files [Bonus]\\FileManager\\FileManager\\FileManager.Api\\Contracts\\UploadFileRequestValidator.cs",
+              "RelativeDocumentMoniker": "FileManager.Api\\Contracts\\UploadFileRequestValidator.cs",
+              "ToolTip": "H:\\programing video\\back end\\asp.net core\\API project\\paid alhelaly\\34. Working With Files [Bonus]\\FileManager\\FileManager\\FileManager.Api\\Contracts\\UploadFileRequestValidator.cs",
+              "RelativeToolTip": "FileManager.Api\\Contracts\\UploadFileRequestValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T18:58:29.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FilesController.cs",
+              "DocumentMoniker": "H:\\programing video\\back end\\asp.net core\\API project\\paid alhelaly\\34. Working With Files [Bonus]\\FileManager\\FileManager\\FileManager.Api\\Controllers\\FilesController.cs",
+              "RelativeDocumentMoniker": "FileManager.Api\\Controllers\\FilesController.cs",
+              "ToolTip": "H:\\programing video\\back end\\asp.net core\\API project\\paid alhelaly\\34. Working With Files [Bonus]\\FileManager\\FileManager\\FileManager.Api\\Controllers\\FilesController.cs",
+              "RelativeToolTip": "FileManager.Api\\Controllers\\FilesController.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwEQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T17:56:34.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1924764005:0:{13143d73-808b-4a2f-bebb-ccbe9c93fe37}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UploadManyFilesRequest.cs",
+              "DocumentMoniker": "H:\\programing video\\back end\\asp.net core\\API project\\paid alhelaly\\34. Working With Files [Bonus]\\FileManager\\FileManager\\FileManager.Api\\Contracts\\UploadManyFilesRequest.cs",
+              "RelativeDocumentMoniker": "FileManager.Api\\Contracts\\UploadManyFilesRequest.cs",
+              "ToolTip": "H:\\programing video\\back end\\asp.net core\\API project\\paid alhelaly\\34. Working With Files [Bonus]\\FileManager\\FileManager\\FileManager.Api\\Contracts\\UploadManyFilesRequest.cs",
+              "RelativeToolTip": "FileManager.Api\\Contracts\\UploadManyFilesRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T18:17:51.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UploadedFile.cs",
+              "DocumentMoniker": "H:\\programing video\\back end\\asp.net core\\API project\\paid alhelaly\\34. Working With Files [Bonus]\\FileManager\\FileManager\\FileManager.Api\\Entities\\UploadedFile.cs",
+              "RelativeDocumentMoniker": "FileManager.Api\\Entities\\UploadedFile.cs",
+              "ToolTip": "H:\\programing video\\back end\\asp.net core\\API project\\paid alhelaly\\34. Working With Files [Bonus]\\FileManager\\FileManager\\FileManager.Api\\Entities\\UploadedFile.cs",
+              "RelativeToolTip": "FileManager.Api\\Entities\\UploadedFile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T17:52:46.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "H:\\programing video\\back end\\asp.net core\\API project\\paid alhelaly\\34. Working With Files [Bonus]\\FileManager\\FileManager\\FileManager.Api\\Program.cs",
+              "RelativeDocumentMoniker": "FileManager.Api\\Program.cs",
+              "ToolTip": "H:\\programing video\\back end\\asp.net core\\API project\\paid alhelaly\\34. Working With Files [Bonus]\\FileManager\\FileManager\\FileManager.Api\\Program.cs",
+              "RelativeToolTip": "FileManager.Api\\Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T10:00:49.9Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
